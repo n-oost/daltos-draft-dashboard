@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-deep-purple: #2e1a47;
+  --color-gold: #ffd700;
+  --color-mid-purple: #3e2a5f;
+
+  --font-header: "Press Start 2P", system-ui;
+  --font-body: "VT323", monospace;
+
+  --shadow-retro: 8px 8px 0px 0px rgba(0, 0, 0, 0.5);
+}
+
+:root {
+  background-color: var(--color-deep-purple);
+  color: white;
+  font-family: var(--font-body);
+  font-size: 18px; /* Slightly larger base size for the retro font */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-header);
+}
+
+/* Custom Scrollbar for that retro feel */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-deep-purple);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-mid-purple);
+  border: 2px solid var(--color-gold);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-gold);
+}
