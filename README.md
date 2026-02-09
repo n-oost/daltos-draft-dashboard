@@ -2,7 +2,6 @@
 
 this is the 2025 draft board.
 
-### 🌐 [Open Web Version](https://n-oost.github.io/daltos-draft-dashboard/)
 ### 🖥️ [Download Windows App](https://github.com/n-oost/daltos-draft-dashboard/releases/latest)
 
 **how to use:**
