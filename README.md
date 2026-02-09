@@ -1,4 +1,4 @@
-hi daltos. 
+# hi daltos.
 
 this is the 2025 draft board.
 
@@ -12,4 +12,4 @@ this is the 2025 draft board.
 - **edit:** hover over a player and click the pencil.
 - **storage:** everything is saved automatically to your machine.
 
-Enjoy.
+let me know if u want anything changed, fixed or idk, anything other dumb ideas made (im not looking for payment). -TRUENOSUS
